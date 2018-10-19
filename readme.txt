@@ -1,2 +1,1 @@
-day la phien ban 1
-12345
+day la 1
